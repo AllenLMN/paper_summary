@@ -1,7 +1,7 @@
 # 论文阅读笔记
 ### 命名实体识别（NER）
 * __2019__  
-  EMNLP BiLSTM-LAN [论文](https://github.com/AllenLMN/paper_summary/blob/master/paper/bilstm-lan.pdf) [源码](https://github.com/Nealcly/BiLSTM-LAN) [笔记]()
+  BiLSTM-LAN [论文](https://github.com/AllenLMN/paper_summary/blob/master/paper/bilstm-lan.pdf) [源码](https://github.com/Nealcly/BiLSTM-LAN) [笔记]()
 ### 预训练模型
 * __2019__  
   ALBERT [论文](https://github.com/AllenLMN/paper_summary/blob/master/paper/albert.pdf)  
