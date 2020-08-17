@@ -1,6 +1,6 @@
 # 论文阅读笔记
 ### KGQA
-* __2019__
+* __2019__  
   综述 Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs [论文](https://github.com/AllenLMN/paper_summary/blob/master/paper/Introduction_KGQA.pdf)
 ### 命名实体识别（NER）
 * __2019__  
